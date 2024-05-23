@@ -1,11 +1,15 @@
-# Raspberry Pi Codec Zero (and IQaudIO Pi-Codec+ / Pi-CodecZero)
+# RASPIAUDIO Pi Audio Drive
 
-These are ALSA configuration ("state") files for the Raspberry Pi Codec Zero
-and IQaudIO Pi-Codec+ / Pi-CodecZero soundcards. Although functionally
-equivalent, the Raspberry Pi and IQaudIO versions appear with different names
-for the cards, requiring different configuration files, and the boards
-themselves differ in colour - Raspberry Pi boards are green, IQaudIO boards
-are black.
+ Storage + Audio + Power: in one HAT
+
+Buy the product here :
+ https://raspiaudio.com/product/pi5dpa/
+
+ Installation tutorial here : 
+ https://forum.raspiaudio.com/t/pi-audio-drive-shield-by-raspiaudio-installation-guide/884
+
+These are ALSA configuration ("state") files for the RASPIAUDIO Pi Audio Drive sound card.
+
 
 To load a state file, from the command line use:
 
