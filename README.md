@@ -1,6 +1,6 @@
 # RASPIAUDIO Pi Audio Drive
 
- Storage + Audio + Power: in one HAT
+ Storage + Audio + Power in one HAT
 
 Buy the product here :
  https://raspiaudio.com/product/pi5dpa/
